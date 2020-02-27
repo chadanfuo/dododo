@@ -3,7 +3,4 @@ Test
 Test
 realLast
 Hello github!
-
-룰룰하세요
-왜죠
-되라라ㅏㄹ
+Hello Friday!
